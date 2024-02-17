@@ -1,5 +1,7 @@
 NORSU Computer Mapping and Information System (CMIS)
 
+This project is made using Laravel Starter by nasirkhan all credit to his work https://github.com/nasirkhan/laravel-starter
+
 User: carlo@gmail.com
 Pass: secret
 
