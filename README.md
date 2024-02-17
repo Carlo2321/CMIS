@@ -7,6 +7,8 @@ User: user@user.com
 Pass: secret
 
 ```
+Make sure to install Leaflet for the GIS map
+here is the download link: https://leafletjs.com/download.html
 
 
 test the application on your local machine with additional demo data you may use the following command.
