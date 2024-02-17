@@ -1,5 +1,7 @@
 NORSU Computer Mapping and Information System (CMIS)
 
+This project aims to build a mapping system of the computer units with the main campus of Negros Oriental State University
+
 This project is made using Laravel Starter by nasirkhan all credit to his work https://github.com/nasirkhan/laravel-starter
 
 User: carlo@gmail.com
